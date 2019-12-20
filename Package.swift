@@ -29,4 +29,4 @@ let package = Package(
             dependencies: ["SwiftTryCatch"])
     ]
 )
-let version = Version(1, 0, 0)
+let version = Version(1, 0, 1)
