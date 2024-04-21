@@ -5,7 +5,7 @@ Adds try/catch support for Swift.
 
 Simple wrapper built around Objective-C `@try`/`@catch`/`@finally`.
 
-##Usage
+## Usage
 
 ### Install via Cocoapods
 
